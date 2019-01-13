@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-source-gravatar",
+  "version": "1.0.0",
+  "author": "Jeremy Amorin",
+  "description": "Gatsby plugin for Gravatar",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gravatar"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "gatsby": ">=2"
+  }
+}
